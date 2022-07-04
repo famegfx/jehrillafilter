@@ -2,8 +2,8 @@ class Script(object):
 
     START_MSG = """<b>Hello {} How are you🌹,
 
-I'm an advanced filter bot with many capabilities!
-Made by @RJMALLU
+I'm an advanced jehrilla filter bot with many capabilities!
+Made by @jehrilla_user
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -52,9 +52,9 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name :</b> <a href='http://t.me/Poli_ano_bot/'UNLIMITED FILTER BOT RJ</a>
+    ABOUT_MSG = """⭕️<b>My Name :</b> <a href='http://t.me/jehrilla_bot/'UNLIMITED FILTER BOT RJ</a>
 
-⭕️<b>Creater :</b> <a href= 'https://t.me/RJMALLU/'RJ</a>
+⭕️<b>Creater :</b> <a href= 'https://t.me/jehrilla_user/'RJ</a>
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
